@@ -8,7 +8,7 @@ public class Joyce {
 	}
 	
 	public static int soma(int num1, int num2) {
-		System.out.println("Oi, Joyce!");
+		System.out.println("Oi, Joyce!");;
 		return num1+num2;
 	}
 	
